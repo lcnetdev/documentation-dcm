@@ -21,7 +21,7 @@
 
 </div>
 
-# B5.7. Instructions for Using the STARS Slip
+# B5.7 Instructions for Using the STARS Slip
 
 ## B5.7.1. Statistical Reporting System (STARS)
 
