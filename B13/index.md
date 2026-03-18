@@ -131,7 +131,7 @@
 
 </div>
 
-# B13.1 Introduction
+# B13 Copy Cataloging Manual
 
 ## B13.1.1. Purpose Of The Manual
 
