@@ -22,7 +22,7 @@
 
 </div>
 
-# B5.6
+# B5.6 Workflows
 
 ## B5.6.1 General
 
