@@ -1,6 +1,7 @@
 # DCM Test
 
 - [B4. Terminology](B4/index.md)
+- [B5 Cataloging Basics](B5/index.md)
   - [B5.6 Workflows](B5.6/index.md)
   - [B5.7 Instructions for Using the STARS Slip](B5.7/index.md)
   - [B5.9 Searching](B5.9/index.md)
@@ -9,7 +10,6 @@
   - [B5.12 New Input](B5.12/index.md)
   - [B5.13](B5.13/index.md)
   - [B5.14 Publication, Etc. Date Codes for Monographs](B5.14/index.md)
-- [B5 Cataloging Basics](B5/index.md)
 - [B6 Referring/Forwarding](B6/index.md)
 - [B9. Cataloger's Notes (952 Field) (Monographs)](B9/index.md)
 - [B11 Minimal Level Cataloging (MLC)](B11/index.md)
