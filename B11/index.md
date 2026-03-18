@@ -35,7 +35,7 @@
 
 </div>
 
-# B11.1. Minimal Level Cataloging (MLC)
+# B11 Minimal Level Cataloging (MLC)
 
 <include b11.1.md>
 
