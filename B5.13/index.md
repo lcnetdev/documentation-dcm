@@ -5,6 +5,7 @@
   - [B5.13.3. ITEMS MISSING IN COLLECTIONS](#b5.13.3.-items-missing-in-collections)
 
 </div>
+
 ## B5.13 Collections Management Information in Bibliographic Records 
 
 ## B5.13.1. GENERAL
