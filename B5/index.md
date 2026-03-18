@@ -31,7 +31,7 @@
   - [B5.5.8. Writing Data in Item/Insuring LCCN](#b5.5.8.-writing-data-in-item%2Finsuring-lccn)
 
 </div>
-# B5.1 Cataloging Basics
+# B5 Cataloging Basics
 
 
 ## B5.1.1 Pre-automation
