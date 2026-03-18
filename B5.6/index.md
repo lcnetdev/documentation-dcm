@@ -22,7 +22,9 @@
 
 </div>
 
-## B5.6 General
+# B5.6
+
+## B5.6.1 General
 
 <include b5.6.1.md>
 
