@@ -43,7 +43,7 @@
 
 </div>
 
-## B5.10 Guidelines for Language Codes; Government Publication Codes
+# B5.10 Guidelines for Language Codes; Government Publication Codes
 
 
 ## B5.10.1. ASSIGNMENT OF LANGUAGE CODES
