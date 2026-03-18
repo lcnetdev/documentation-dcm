@@ -25,69 +25,69 @@
 # B18 Book With Accompanying Electronic Resources
 
 
-# B18.1. INTRODUCTION
+## B18.1. INTRODUCTION
 
 <include b18.1.md>
 
-# B18.2. CATALOGING AND END-STAGE PROCESSING
+## B18.2. CATALOGING AND END-STAGE PROCESSING
 
-## B18.2.1. Bibliographic Record
+### B18.2.1. Bibliographic Record
 
 <include b18.2.1.md>
 
-## B18.2.2. Holdings and Item Records (HR/IR)
+### B18.2.2. Holdings and Item Records (HR/IR)
 
 <include b18.2.2.md>
 
-## B18.2.3. Labeling
+### B18.2.3. Labeling
 
 <include b18.2.3.md>
 
-## B18.2.4. Electronic Resource Missing At Time of Receipt of Book
+### B18.2.4. Electronic Resource Missing At Time of Receipt of Book
 
 <include b18.2.4.md>
 
-# B18.3. LOCATIONS
+## B18.3. LOCATIONS
 
-## B18.3.1. Machine Readable Collection (MRC)
+### B18.3.1. Machine Readable Collection (MRC)
 
 <include b18.3.1.md>
 
-## B18.3.2. Reading Rooms
+### B18.3.2. Reading Rooms
 
 <include b18.3.2.md>
 
-## B18.3.3. Music Division
+### B18.3.3. Music Division
 
 <include b18.3.3.md>
 
-## B18.3.4. African and Middle Eastern Division (AMED)
+### B18.3.4. African and Middle Eastern Division (AMED)
 
 <include b18.3.4.md>
 
-## B18.3.5. Asian Division
+### B18.3.5. Asian Division
 
 <include b18.3.5.md>
 
-## B18.3.6. Law Library
+### B18.3.6. Law Library
 
-### B18.3.6.1. GLOBAL
+#### B18.3.6.1. GLOBAL
 
 <include b18.3.6.1.md>
 
-### B18.3.6.2. Other Books with Accompanying Electronic Resources
+#### B18.3.6.2. Other Books with Accompanying Electronic Resources
 
 <include b18.3.6.2.md>
 
-## B18.3.7. Locations Not Addressed in These Guidelines
+### B18.3.7. Locations Not Addressed in These Guidelines
 
 <include b18.3.7.md>
 
-# B18.4. GUIDELINES FOR FORWARDING BOOKS WITH ACCOMPANYING ELECTRONIC
+## B18.4. GUIDELINES FOR FORWARDING BOOKS WITH ACCOMPANYING ELECTRONIC
 
 <include b18.4.md>
 
-# B18.5. SUBSEQUENT COPIES
+## B18.5. SUBSEQUENT COPIES
 
 <include b18.5.md>
 
